@@ -1,0 +1,38 @@
+h1 {
+    color: black;
+}
+
+
+.sidebar {
+  /*  border-left: 1px dashed grey;*/
+    padding-bottom: 30px;
+}
+
+
+.mainbody {
+    border-right: 1px dashed grey;
+    padding-top: 30px;
+}
+
+.pocket {
+    /*border-bottom: 1px dashed grey;*/
+    margin-left: -12px;
+    padding-left: 12px;
+    padding-top: 30px;
+    
+}
+
+.footer {
+    background-color: darkgrey;
+    padding-top: 10px;
+}
+
+.bottom-banner {
+    background-color: black;
+    color: white;
+}
+
+#newArticleBody {
+    height: 100px;
+}
+
